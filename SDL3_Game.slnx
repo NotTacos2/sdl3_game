@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SDL3_Game/SDL3_Game.vcxproj" Id="3b8ad674-b753-4c01-b35a-d460169a4aaf" />
+</Solution>
